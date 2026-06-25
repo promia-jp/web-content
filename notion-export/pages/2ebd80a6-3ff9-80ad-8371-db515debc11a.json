@@ -1,0 +1,390 @@
+{
+  "page_id": "2ebd80a6-3ff9-80ad-8371-db515debc11a",
+  "title": "PP Kanto Sebagai Awal Mula Promia",
+  "slug": "pp-kanto-sebagai-awal-mula-promia-2ebd80a63ff980ad8371db515debc11a",
+  "blocks": [
+    {
+      "id": "376d80a6-3ff9-80b5-b62a-fd4cbba5ee91",
+      "type": "image",
+      "media": {
+        "url": "/notion-export/images/ec77121be07a.webp",
+        "expiry_time": null,
+        "source": "file",
+        "caption": []
+      },
+      "props": {
+        "caption": []
+      }
+    },
+    {
+      "id": "5f68d6ae-7e11-4f15-bb9f-02fc8a84f171",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "PP-Kanto adalah singkatan dari Pengajian Profesional Kanto beranggotakan rekan-rekan muslim muda yang bekerja di perusahaan di Jepang.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "2d4a2a59-c8c0-4cfd-9d71-2c3e0df10031",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Dasar pemikiran dari pembentukan PP-Kanto adalah untuk menjadi wadah silaturahim dan berbagi pengalaman bagi rekan-rekan muslim yang bekerja di Jepang, baik mengenai kehidupan di Jepang, kehidupan bekerja di perusahaan di Jepang, pengalaman bekerja dan berteman di Jepang, dan lain-lain.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "b7adc014-95d2-4873-8854-9cd02a90235d",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Pembentukan PP-Kanto bertepatan dengan Pengajian Perdana dari PP-Kanto tepatnya pada hari Sabtu tanggal 27 Februari 2010 bertempat di Fujigaoka rumah Endrianto Djajadi. Pada pembentukan ini dihadiri oleh 10 orang profesional muda yaitu:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "0aba8886-be8d-43f4-8dbb-e0d53c0bdff2",
+      "type": "numbered_list",
+      "children": [
+        {
+          "id": "b45f4d48-bb41-48fd-bcd8-9009ccd999bb",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Agus Bani Abdillah (Oracle)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "000249c9-fa62-44a6-9c72-9ff3c805aa58",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Syofwanhar (Fuji Denki)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "ae93224b-64de-4c8f-b2e5-d1fe3c913fc8",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Rakhman Fuady (Bosch)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "6f2cc522-908e-408e-aaba-6393cec8631d",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Wisnu Tedja (Schlumberger)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "80d69821-cff5-4e10-83b2-bcd08298fcbf",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Yudhi Amrata (Fujitsu)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "2cc2777d-24a7-4dba-b322-b27c128b5b5e",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Bima Anggun Putra (Toshiba)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "1524fb9a-3a6f-498d-932b-454f37a0be95",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Ilwan Izani (Toshiba)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "dc90266a-8895-46ce-9b0b-0c1953c158dc",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Mohammad Ashari (Toshiba)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "7cb5324c-7ed1-41f6-ae45-ba51c64d5852",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Aisar Labibi Romas (Toshiba)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        },
+        {
+          "id": "5cfdf88c-d9f7-4f2e-92ee-988fbe97de55",
+          "type": "numbered_list_item",
+          "text": [
+            {
+              "plain": "Endrianto Djajadi (Sony)",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f486bdfd-1880-4251-92c7-3216a0a3d824",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Sebagai seorang profesional di Jepang ini, tentunya menuntut waktu yang banyak dalam bekerja, dari Senin sampai Jumat menghabiskan waktu untuk bekerja di perusahaan. Oleh karenanya mudah-mudahan dengan adanya PP-Kanto ini, acara-acara yang diadakan bisa menjadi ajang silaturahim, ajang melepas penat dalam bekerja, dan sebagai ajang bertukar informasi dan isu-isu terkini di dalam dan di luar dunia kerja.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "9c46370a-365e-46f2-9558-a8c96e496698",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Wassalaamu’alaikum wr wb",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "25875cc5-2d44-49fe-9041-c2744982930c",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "M. Ashari Hadianto",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "e53e3395-a946-40fc-bdca-569ec587352f",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Ketua PP-Kanto",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    }
+  ]
+}

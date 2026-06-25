@@ -1,0 +1,486 @@
+{
+  "page_id": "2ebd80a6-3ff9-802d-8d20-c666e67e0394",
+  "slug": "2ebd80a6-3ff9-802d-8d20-c666e67e0394",
+  "blocks": [
+    {
+      "id": "376d80a6-3ff9-80cc-b9bf-ed01226a1183",
+      "type": "column_list",
+      "children": [
+        {
+          "id": "376d80a6-3ff9-8029-a37a-e69e030527e1",
+          "type": "column",
+          "children": [
+            {
+              "id": "375d80a6-3ff9-8081-92b6-d383d9b3b74b",
+              "type": "image",
+              "media": {
+                "url": "/notion-export/images/cf83edc8a62a.png",
+                "expiry_time": null,
+                "source": "file",
+                "caption": []
+              },
+              "props": {
+                "caption": []
+              }
+            }
+          ]
+        },
+        {
+          "id": "376d80a6-3ff9-80af-951e-c339b6d7f8f5",
+          "type": "column",
+          "children": [
+            {
+              "id": "376d80a6-3ff9-8011-9e8a-d47f88544a15",
+              "type": "paragraph",
+              "text": [
+                {
+                  "plain": "Promia (Profesional Muslim Indonesia di Jepang) adalah organisasi formal sebagai representasi pekerja profesional muslim dan muslimah Indonesia di Jepang.",
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "href": null
+                }
+              ],
+              "props": {
+                "color": "default",
+                "icon": null
+              }
+            },
+            {
+              "id": "376d80a6-3ff9-80e1-9851-e8422491cf7c",
+              "type": "paragraph",
+              "text": [],
+              "props": {
+                "color": "default",
+                "icon": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01a9b876-71ca-45db-94a1-0c6853d9c520",
+      "type": "toggle_list",
+      "children": [
+        {
+          "id": "375d80a6-3ff9-8020-a7a3-f14bbc4e085a",
+          "type": "toggle",
+          "text": [
+            {
+              "plain": "Tujuan Promia",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          },
+          "children": [
+            {
+              "id": "375d80a6-3ff9-8080-a1ea-d663a468e52b",
+              "type": "column_list",
+              "children": [
+                {
+                  "id": "375d80a6-3ff9-807d-bea8-d47f9b350b03",
+                  "type": "column",
+                  "children": [
+                    {
+                      "id": "fd945c36-95b1-4937-93ad-7dada76520cb",
+                      "type": "image",
+                      "media": {
+                        "url": "/notion-export/images/859215dcb28c.jpeg",
+                        "expiry_time": null,
+                        "source": "file",
+                        "caption": []
+                      },
+                      "props": {
+                        "caption": []
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "376d80a6-3ff9-8044-9b0b-c0302127b766",
+                  "type": "column",
+                  "children": [
+                    {
+                      "id": "376d80a6-3ff9-808a-97f5-f561586da1b4",
+                      "type": "paragraph",
+                      "text": [],
+                      "props": {
+                        "color": "default",
+                        "icon": null
+                      }
+                    },
+                    {
+                      "id": "375d80a6-3ff9-80e5-b212-c5e78f1d026a",
+                      "type": "paragraph",
+                      "text": [
+                        {
+                          "plain": "Memfasilitasi silaturahmi dan pertukaran informasi antar profesional\nMuslim Indonesia di Jepang guna memperkuat jejaring, kompetensi, dan nilai keislaman.",
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "href": null
+                        }
+                      ],
+                      "props": {
+                        "color": "default",
+                        "icon": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "378d80a6-3ff9-808f-b0cc-f1a5a70f2a72",
+          "type": "toggle",
+          "text": [
+            {
+              "plain": "Struktur Promia",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ],
+          "props": {
+            "color": "default"
+          },
+          "children": [
+            {
+              "id": "378d80a6-3ff9-8018-80a3-f1984877ab26",
+              "type": "paragraph",
+              "text": [
+                {
+                  "plain": "Promia beranggotakan 380 profesional dan memiliki struktur organisasi yang terdiri dari Dewan Penasehat Umum, Ketua, Sekjen, Bendahara, dan 3 divisi, yaitu Sumber Daya Manusia, Fundraising & Kemitraan, Komunikasi & Kreatif.",
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "href": null
+                }
+              ],
+              "props": {
+                "color": "default",
+                "icon": null
+              }
+            },
+            {
+              "id": "378d80a6-3ff9-80f1-85ce-f5de41fd0e95",
+              "type": "child_page",
+              "title": "Struktur Promia",
+              "slug": "struktur-promia-378d80a63ff980f185cef5de41fd0e95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "376d80a6-3ff9-8096-a9ae-c3618ce0b49e",
+      "type": "paragraph",
+      "text": [],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-8030-b48a-d5df16faadc3",
+      "type": "callout",
+      "text": [
+        {
+          "plain": "Saat ini Promia memiliki kurang lebih 380 anggota. Berminat untuk bergabung? Silakan daftar melalui tautan Google Form berikut ini:  ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "plain": "Pendaftaran Keanggotaan Promia",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSdUwJ6P6miCgF3LRPLl1hGY17Ns_zcysuiAtXzzmZQJvU6OZA/viewform?usp=pp_url"
+        },
+        {
+          "plain": ".",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "blue_background",
+        "icon": null
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-80e2-9bea-d03c8a67a7d8",
+      "type": "heading_2",
+      "text": [
+        {
+          "plain": "Seputar Promia",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default"
+      }
+    },
+    {
+      "id": "2ebd80a6-3ff9-8069-9dca-dff1fabaa29f",
+      "type": "child_database",
+      "title": "",
+      "data_source_id": "2ebd80a6-3ff9-8087-ad6d-000b7d2cc29a",
+      "view_type": "gallery"
+    },
+    {
+      "id": "375d80a6-3ff9-80f6-bafd-d94b8dd24c99",
+      "type": "paragraph",
+      "text": [],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-8076-ac82-e927f08a7c6f",
+      "type": "heading_2",
+      "text": [
+        {
+          "plain": "Kegiatan",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default"
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-80d6-b545-e28e3a6aa1d7",
+      "type": "child_database",
+      "title": "",
+      "data_source_id": "376d80a6-3ff9-80d2-afab-000bba3f99ee",
+      "view_type": "gallery"
+    },
+    {
+      "id": "374d80a6-3ff9-8050-812c-e6dc49d11f79",
+      "type": "heading_2",
+      "text": [
+        {
+          "plain": "Kalender Kegiatan",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default"
+      }
+    },
+    {
+      "id": "371d80a6-3ff9-8054-86d8-c8f2932207f1",
+      "type": "embed",
+      "media": {
+        "expiry_time": null,
+        "caption": []
+      },
+      "props": {
+        "url": "https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&ctz=Asia/Tokyo&showPrint=0&showTz=0&src=a29udGFrLnByb21pYUBnbWFpbC5jb20&src=ZW4uamFwYW5lc2UjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%230b8043&showTitle=0",
+        "caption": []
+      }
+    },
+    {
+      "id": "2ebd80a6-3ff9-8040-867c-ec49ff9da4c1",
+      "type": "heading_2",
+      "text": [
+        {
+          "plain": "Media Sosial",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default"
+      }
+    },
+    {
+      "id": "2ebd80a6-3ff9-80a0-9ab6-d93ac51c0a13",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Instagram: ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "plain": "https://www.instagram.com/promia.jp?igsh=Z2YzYnNseXZmazVl",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": "https://www.instagram.com/promia.jp?igsh=Z2YzYnNseXZmazVl"
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "2ebd80a6-3ff9-8095-8ac4-f9140a786251",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Facebook: ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "plain": "https://www.facebook.com/promia.official/",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": "https://www.facebook.com/promia.official/"
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-801e-a4f1-df19ba056bab",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "YouTube: ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "plain": "https://youtube.com/@promiajepang5401",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": "https://youtube.com/@promiajepang5401"
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "page_id": "375d80a6-3ff9-807f-808e-d54c5a53bc87",
+  "title": "Silaturahmi",
+  "slug": "silaturahmi-375d80a63ff9807f808ed54c5a53bc87",
+  "blocks": [
+    {
+      "id": "378d80a6-3ff9-8093-a887-ddd68a89c73a",
+      "type": "image",
+      "media": {
+        "url": "/notion-export/images/212694c8b644.jpg",
+        "expiry_time": null,
+        "source": "file",
+        "caption": []
+      },
+      "props": {
+        "caption": []
+      }
+    },
+    {
+      "id": "375d80a6-3ff9-80c3-9cbe-df9e84a062fc",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Wadah silaturahmi sesama profesional",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    }
+  ]
+}

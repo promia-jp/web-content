@@ -1,0 +1,345 @@
+{
+  "data_source_id": "87b46566-78d8-4bad-b8d3-0a4a206f02ab",
+  "title": "Ketua Promia",
+  "schema": {
+    "End": {
+      "type": "date"
+    },
+    "Start": {
+      "type": "date"
+    },
+    "Activity": {
+      "type": "title"
+    }
+  },
+  "rows": [
+    {
+      "id": "378d80a6-3ff9-8017-8d1e-cb6c3c8bf352",
+      "slug": "andi-hakim-378d80a63ff980178d1ecb6c3c8bf352",
+      "title": "Andi Hakim",
+      "created_time": "2026-06-07T13:26:00.000Z",
+      "last_edited_time": "2026-06-07T16:15:00.000Z",
+      "url": "https://app.notion.com/p/Andi-Hakim-378d80a63ff980178d1ecb6c3c8bf352",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2027-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2025-12-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Andi Hakim",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-80a9-ba33-d99a3da10492",
+      "slug": "andi-hakim-378d80a63ff980a9ba33d99a3da10492",
+      "title": "Andi Hakim",
+      "created_time": "2026-06-07T13:25:00.000Z",
+      "last_edited_time": "2026-06-07T13:25:00.000Z",
+      "url": "https://app.notion.com/p/Andi-Hakim-378d80a63ff980a9ba33d99a3da10492",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2025-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2023-12-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Andi Hakim",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-803c-81f2-f7d5c8e21acb",
+      "slug": "adiyudha-sadono-378d80a63ff9803c81f2f7d5c8e21acb",
+      "title": "Adiyudha Sadono",
+      "created_time": "2026-06-07T13:25:00.000Z",
+      "last_edited_time": "2026-06-07T13:25:00.000Z",
+      "url": "https://app.notion.com/p/Adiyudha-Sadono-378d80a63ff9803c81f2f7d5c8e21acb",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2023-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2021-12-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Adiyudha Sadono",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-80f6-8574-d141b4f5b232",
+      "slug": "dzulfahmi-378d80a63ff980f68574d141b4f5b232",
+      "title": "Dzulfahmi",
+      "created_time": "2026-06-07T13:24:00.000Z",
+      "last_edited_time": "2026-06-07T13:25:00.000Z",
+      "url": "https://app.notion.com/p/Dzulfahmi-378d80a63ff980f68574d141b4f5b232",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2021-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2019-12-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Dzulfahmi",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-80d1-9dd2-f36d32115a8d",
+      "slug": "dzulfahmi-378d80a63ff980d19dd2f36d32115a8d",
+      "title": "Dzulfahmi",
+      "created_time": "2026-06-07T13:24:00.000Z",
+      "last_edited_time": "2026-06-07T13:24:00.000Z",
+      "url": "https://app.notion.com/p/Dzulfahmi-378d80a63ff980d19dd2f36d32115a8d",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2019-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2017-12-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Dzulfahmi",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-8019-b050-e70fb08b9892",
+      "slug": "dedy-eka-priyanto-378d80a63ff98019b050e70fb08b9892",
+      "title": "Dedy Eka Priyanto",
+      "created_time": "2026-06-07T13:23:00.000Z",
+      "last_edited_time": "2026-06-07T13:24:00.000Z",
+      "url": "https://app.notion.com/p/Dedy-Eka-Priyanto-378d80a63ff98019b050e70fb08b9892",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2017-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2015-12-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Dedy Eka Priyanto",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-8042-a0e8-e3127c9a0250",
+      "slug": "dian-syahfitra-378d80a63ff98042a0e8e3127c9a0250",
+      "title": "Dian Syahfitra",
+      "created_time": "2026-06-07T13:18:00.000Z",
+      "last_edited_time": "2026-06-07T13:22:00.000Z",
+      "url": "https://app.notion.com/p/Dian-Syahfitra-378d80a63ff98042a0e8e3127c9a0250",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2015-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2013-12-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Dian Syahfitra",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "378d80a6-3ff9-8059-a7f8-f6799c8387d9",
+      "slug": "m-ashari-hadianto-378d80a63ff98059a7f8f6799c8387d9",
+      "title": "M. Ashari Hadianto",
+      "created_time": "2026-06-07T13:17:00.000Z",
+      "last_edited_time": "2026-06-07T16:15:00.000Z",
+      "url": "https://app.notion.com/p/M-Ashari-Hadianto-378d80a63ff98059a7f8f6799c8387d9",
+      "properties": {
+        "End": {
+          "type": "date",
+          "value": {
+            "start": "2013-11-30",
+            "end": null
+          }
+        },
+        "Start": {
+          "type": "date",
+          "value": {
+            "start": "2011-01-01",
+            "end": null
+          }
+        },
+        "Activity": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "M. Ashari Hadianto",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

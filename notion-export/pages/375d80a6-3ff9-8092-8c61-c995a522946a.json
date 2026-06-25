@@ -1,0 +1,42 @@
+{
+  "page_id": "375d80a6-3ff9-8092-8c61-c995a522946a",
+  "title": "Komunitas",
+  "slug": "komunitas-375d80a63ff980928c61c995a522946a",
+  "blocks": [
+    {
+      "id": "378d80a6-3ff9-80d4-a4cb-d457a0a93ddf",
+      "type": "image",
+      "media": {
+        "url": "/notion-export/images/fa605130faa1.jpg",
+        "expiry_time": null,
+        "source": "file",
+        "caption": []
+      },
+      "props": {
+        "caption": []
+      }
+    },
+    {
+      "id": "375d80a6-3ff9-8071-8631-d82676d86334",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Profesional Muslim Indonesia di Jepang",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    }
+  ]
+}

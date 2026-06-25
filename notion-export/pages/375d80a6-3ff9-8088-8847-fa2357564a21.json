@@ -1,0 +1,42 @@
+{
+  "page_id": "375d80a6-3ff9-8088-8847-fa2357564a21",
+  "title": "Networking",
+  "slug": "networking-375d80a63ff980888847fa2357564a21",
+  "blocks": [
+    {
+      "id": "378d80a6-3ff9-80e7-ac03-f6be75e736c7",
+      "type": "image",
+      "media": {
+        "url": "/notion-export/images/8492a0513672.jpg",
+        "expiry_time": null,
+        "source": "file",
+        "caption": []
+      },
+      "props": {
+        "caption": []
+      }
+    },
+    {
+      "id": "375d80a6-3ff9-80ec-9722-ea6a2522e5a1",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "Memperkuat jejaring, kompetensi, dan nilai keislaman",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    }
+  ]
+}

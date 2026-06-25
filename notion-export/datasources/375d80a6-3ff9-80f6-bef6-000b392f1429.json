@@ -1,0 +1,160 @@
+{
+  "data_source_id": "375d80a6-3ff9-80f6-bef6-000b392f1429",
+  "title": "Promia Hero Slider",
+  "schema": {
+    "Status": {
+      "type": "status",
+      "options": [
+        {
+          "name": "Not started",
+          "color": "default"
+        },
+        {
+          "name": "In progress",
+          "color": "blue"
+        },
+        {
+          "name": "Done",
+          "color": "green"
+        }
+      ]
+    },
+    "Date": {
+      "type": "date"
+    },
+    "Place": {
+      "type": "place"
+    },
+    "Name": {
+      "type": "title"
+    }
+  },
+  "rows": [
+    {
+      "id": "375d80a6-3ff9-8092-8c61-c995a522946a",
+      "slug": "komunitas-375d80a63ff980928c61c995a522946a",
+      "title": "Komunitas",
+      "created_time": "2026-06-04T16:22:00.000Z",
+      "last_edited_time": "2026-06-07T13:13:00.000Z",
+      "url": "https://app.notion.com/p/Komunitas-375d80a63ff980928c61c995a522946a",
+      "properties": {
+        "Status": {
+          "type": "status",
+          "value": {
+            "name": "Not started",
+            "color": "default"
+          }
+        },
+        "Date": {
+          "type": "date",
+          "value": null
+        },
+        "Place": {
+          "type": "place",
+          "value": null
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Komunitas",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "375d80a6-3ff9-807f-808e-d54c5a53bc87",
+      "slug": "silaturahmi-375d80a63ff9807f808ed54c5a53bc87",
+      "title": "Silaturahmi",
+      "created_time": "2026-06-04T16:15:00.000Z",
+      "last_edited_time": "2026-06-07T15:54:00.000Z",
+      "url": "https://app.notion.com/p/Silaturahmi-375d80a63ff9807f808ed54c5a53bc87",
+      "properties": {
+        "Status": {
+          "type": "status",
+          "value": {
+            "name": "Not started",
+            "color": "default"
+          }
+        },
+        "Date": {
+          "type": "date",
+          "value": null
+        },
+        "Place": {
+          "type": "place",
+          "value": null
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Silaturahmi",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "375d80a6-3ff9-8088-8847-fa2357564a21",
+      "slug": "networking-375d80a63ff980888847fa2357564a21",
+      "title": "Networking",
+      "created_time": "2026-06-04T16:06:00.000Z",
+      "last_edited_time": "2026-06-07T15:54:00.000Z",
+      "url": "https://app.notion.com/p/Networking-375d80a63ff980888847fa2357564a21",
+      "properties": {
+        "Status": {
+          "type": "status",
+          "value": {
+            "name": "Not started",
+            "color": "default"
+          }
+        },
+        "Date": {
+          "type": "date",
+          "value": null
+        },
+        "Place": {
+          "type": "place",
+          "value": null
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Networking",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

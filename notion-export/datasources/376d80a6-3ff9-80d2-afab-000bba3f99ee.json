@@ -1,0 +1,193 @@
+{
+  "data_source_id": "376d80a6-3ff9-80d2-afab-000bba3f99ee",
+  "title": "",
+  "schema": {
+    "Created": {
+      "type": "created_time"
+    },
+    "Tags": {
+      "type": "multi_select",
+      "options": []
+    },
+    "Name": {
+      "type": "title"
+    }
+  },
+  "rows": [
+    {
+      "id": "376d80a6-3ff9-80bb-b1e5-db4125a0ac5c",
+      "slug": "promia-muslimah-376d80a63ff980bbb1e5db4125a0ac5c",
+      "title": "Promia Muslimah",
+      "created_time": "2026-06-05T18:26:00.000Z",
+      "last_edited_time": "2026-06-05T18:26:00.000Z",
+      "url": "https://app.notion.com/p/Promia-Muslimah-376d80a63ff980bbb1e5db4125a0ac5c",
+      "properties": {
+        "Created": {
+          "type": "created_time",
+          "value": "2026-06-05T18:26:00.000Z"
+        },
+        "Tags": {
+          "type": "multi_select",
+          "value": []
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Promia Muslimah",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-804c-8b29-f01b34ff1fdc",
+      "slug": "tahsin-376d80a63ff9804c8b29f01b34ff1fdc",
+      "title": "Tahsin",
+      "created_time": "2026-06-05T18:26:00.000Z",
+      "last_edited_time": "2026-06-05T18:26:00.000Z",
+      "url": "https://app.notion.com/p/Tahsin-376d80a63ff9804c8b29f01b34ff1fdc",
+      "properties": {
+        "Created": {
+          "type": "created_time",
+          "value": "2026-06-05T18:26:00.000Z"
+        },
+        "Tags": {
+          "type": "multi_select",
+          "value": []
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Tahsin",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-80ad-bd57-c5fec4c58486",
+      "slug": "workshop-dan-upgrading-376d80a63ff980adbd57c5fec4c58486",
+      "title": "Workshop dan Upgrading",
+      "created_time": "2026-06-05T18:25:00.000Z",
+      "last_edited_time": "2026-06-05T18:26:00.000Z",
+      "url": "https://app.notion.com/p/Workshop-dan-Upgrading-376d80a63ff980adbd57c5fec4c58486",
+      "properties": {
+        "Created": {
+          "type": "created_time",
+          "value": "2026-06-05T18:25:00.000Z"
+        },
+        "Tags": {
+          "type": "multi_select",
+          "value": []
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Workshop dan Upgrading",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-80fc-b3d4-eddb401dc716",
+      "slug": "aktivitas-outdoor-376d80a63ff980fcb3d4eddb401dc716",
+      "title": "Aktivitas Outdoor",
+      "created_time": "2026-06-05T18:25:00.000Z",
+      "last_edited_time": "2026-06-05T18:25:00.000Z",
+      "url": "https://app.notion.com/p/Aktivitas-Outdoor-376d80a63ff980fcb3d4eddb401dc716",
+      "properties": {
+        "Created": {
+          "type": "created_time",
+          "value": "2026-06-05T18:25:00.000Z"
+        },
+        "Tags": {
+          "type": "multi_select",
+          "value": []
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Aktivitas Outdoor",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "376d80a6-3ff9-8071-876a-d46955a5657b",
+      "slug": "kajian-dan-sharing-376d80a63ff98071876ad46955a5657b",
+      "title": "Kajian dan Sharing",
+      "created_time": "2026-06-05T18:25:00.000Z",
+      "last_edited_time": "2026-06-05T18:25:00.000Z",
+      "url": "https://app.notion.com/p/Kajian-dan-Sharing-376d80a63ff98071876ad46955a5657b",
+      "properties": {
+        "Created": {
+          "type": "created_time",
+          "value": "2026-06-05T18:25:00.000Z"
+        },
+        "Tags": {
+          "type": "multi_select",
+          "value": []
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Kajian dan Sharing",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
