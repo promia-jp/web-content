@@ -14,7 +14,7 @@
               "id": "375d80a6-3ff9-8081-92b6-d383d9b3b74b",
               "type": "image",
               "media": {
-                "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/587e22e52924.png",
+                "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/9ce3e06b5550.png",
                 "expiry_time": null,
                 "source": "file",
                 "caption": []
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "id": "1ba3bb07-8214-4df0-85e8-bbd73d0d6142",
+      "id": "add66dcf-5e0b-4b71-b5ed-3f1d39e2da4d",
       "type": "toggle_list",
       "children": [
         {
@@ -101,7 +101,7 @@
                       "id": "fd945c36-95b1-4937-93ad-7dada76520cb",
                       "type": "image",
                       "media": {
-                        "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/ad100f821627.jpeg",
+                        "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/7f25fd341380.jpeg",
                         "expiry_time": null,
                         "source": "file",
                         "caption": []
@@ -220,7 +220,7 @@
       "type": "callout",
       "text": [
         {
-          "plain": "Saat ini Promia memiliki kurang lebih 380 anggota. Berminat untuk bergabung? Silakan daftar melalui tautan Google Form berikut:  ",
+          "plain": "Saat ini Promia memiliki kurang lebih 380 anggota. Berminat untuk bergabung? Silakan daftar melalui tautan Google Form berikut ini:  ",
           "annotations": {
             "bold": false,
             "italic": false,
