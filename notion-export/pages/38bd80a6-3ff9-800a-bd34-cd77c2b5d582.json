@@ -37,6 +37,18 @@
       "props": {
         "caption": []
       }
+    },
+    {
+      "id": "38bd80a6-3ff9-804f-8f65-dafabb1725b9",
+      "type": "embed",
+      "media": {
+        "expiry_time": null,
+        "caption": []
+      },
+      "props": {
+        "url": "https://www.instagram.com/reel/DUx2EEcCd4X/?igsh=NHM4ZzF4a20wZGtx",
+        "caption": []
+      }
     }
   ]
 }
