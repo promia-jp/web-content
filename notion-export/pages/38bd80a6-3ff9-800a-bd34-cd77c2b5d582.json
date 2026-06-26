@@ -24,6 +24,19 @@
         "color": "default",
         "icon": null
       }
+    },
+    {
+      "id": "38bd80a6-3ff9-806d-9851-d10e4d138ac5",
+      "type": "video",
+      "media": {
+        "url": "https://youtu.be/qw4Cpxy8l1A?si=4EqfWVo0QTLxSK0n",
+        "expiry_time": null,
+        "source": "external",
+        "caption": []
+      },
+      "props": {
+        "caption": []
+      }
     }
   ]
 }
