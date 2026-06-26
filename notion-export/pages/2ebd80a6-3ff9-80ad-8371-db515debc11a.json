@@ -7,7 +7,7 @@
       "id": "376d80a6-3ff9-80b5-b62a-fd4cbba5ee91",
       "type": "image",
       "media": {
-        "url": "/notion-export/images/9e8e9d636ea0.webp",
+        "url": "https://cdn.jsdelivr.net/gh/promia-jp/web-content@main/notion-export/images/8757c9be040f.webp",
         "expiry_time": null,
         "source": "file",
         "caption": []
@@ -83,7 +83,7 @@
       }
     },
     {
-      "id": "ccf58221-a352-486a-93a4-4512d1f59f32",
+      "id": "fe6554be-1eb1-4fcd-bfa6-4ef8b377296d",
       "type": "numbered_list",
       "children": [
         {
