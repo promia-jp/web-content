@@ -28,6 +28,44 @@
   },
   "rows": [
     {
+      "id": "38bd80a6-3ff9-800a-bd34-cd77c2b5d582",
+      "slug": "artikel-38bd80a63ff9800abd34cd77c2b5d582",
+      "title": "Artikel",
+      "created_time": "2026-06-26T11:34:00.000Z",
+      "last_edited_time": "2026-06-26T11:36:00.000Z",
+      "url": "https://app.notion.com/p/Artikel-38bd80a63ff9800abd34cd77c2b5d582",
+      "properties": {
+        "Date": {
+          "type": "date",
+          "value": null
+        },
+        "Status": {
+          "type": "status",
+          "value": {
+            "name": "Not started",
+            "color": "default"
+          }
+        },
+        "Name": {
+          "type": "title",
+          "value": [
+            {
+              "plain": "Artikel",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "href": null
+            }
+          ]
+        }
+      }
+    },
+    {
       "id": "2ebd80a6-3ff9-80ad-8371-db515debc11a",
       "slug": "pp-kanto-sebagai-awal-mula-promia-2ebd80a63ff980ad8371db515debc11a",
       "title": "PP Kanto Sebagai Awal Mula Promia",

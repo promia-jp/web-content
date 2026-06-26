@@ -1,0 +1,29 @@
+{
+  "page_id": "38bd80a6-3ff9-800a-bd34-cd77c2b5d582",
+  "title": "Artikel",
+  "slug": "artikel-38bd80a63ff9800abd34cd77c2b5d582",
+  "blocks": [
+    {
+      "id": "38bd80a6-3ff9-8065-ae1e-eb79933bba6b",
+      "type": "paragraph",
+      "text": [
+        {
+          "plain": "lorem ipsum",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ],
+      "props": {
+        "color": "default",
+        "icon": null
+      }
+    }
+  ]
+}
