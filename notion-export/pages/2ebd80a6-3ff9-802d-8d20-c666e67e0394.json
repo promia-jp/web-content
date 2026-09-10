@@ -14,7 +14,7 @@
               "id": "375d80a6-3ff9-8081-92b6-d383d9b3b74b",
               "type": "image",
               "media": {
-                "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/0dbdea74c9e2.png",
+                "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/0ca68fd92086.png",
                 "expiry_time": null,
                 "source": "file",
                 "caption": []
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "id": "fd200c99-1eb0-4ef9-bece-f10e4c37b46b",
+      "id": "fc915b04-e153-4113-83b3-b0e71b14054f",
       "type": "toggle_list",
       "children": [
         {
@@ -101,7 +101,7 @@
                       "id": "fd945c36-95b1-4937-93ad-7dada76520cb",
                       "type": "image",
                       "media": {
-                        "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/23e313f10232.jpeg",
+                        "url": "https://raw.githubusercontent.com/promia-jp/web-content/main/notion-export/images/8fc71ad2f1c0.jpeg",
                         "expiry_time": null,
                         "source": "file",
                         "caption": []
